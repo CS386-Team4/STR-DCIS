@@ -10,7 +10,7 @@ Galactic Gunslingers will include the use of Unity and will be programmed in C#.
 # Authors
 * Samuel Fye
 * Isaiah Raspet
-* Caroline FFye
+* Caroline Fye
 * Jaron Bauers
 * Jack Normand
 * Bronwyn Wedig
