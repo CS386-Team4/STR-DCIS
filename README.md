@@ -8,9 +8,9 @@ Galactic Gunslingers is in the earliest stages of development and the project id
 Galactic Gunslingers will include the use of Unity and will be programmed in C#.
 
 # Authors
-Samuel Fye
-Isaiah Raspet
-Caroline FFye
-Jaron Bauers
-Jack Normand
-Bronwyn Wedig
+* Samuel Fye
+* Isaiah Raspet
+* Caroline FFye
+* Jaron Bauers
+* Jack Normand
+* Bronwyn Wedig
