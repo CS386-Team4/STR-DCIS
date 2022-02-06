@@ -21,7 +21,7 @@ Galactic Gunslingers brings a never seen before gaming experience where you get 
 ## Interviews Summary
 ### Interview 1:
 
-**Summary:** 
+**Summary: Interested mostly in the turn based part of the game and the roguelike mechanics. Not as interested in the themes, art style of the game.** 
 
 **Interviewer: Jack Normand** \
 **Interviewee:Jamari Vanorsby** \
@@ -245,19 +245,47 @@ Galactic Gunslingers brings a never seen before gaming experience where you get 
  
  ### Interview 9:
 
-**Summary:** 
+**Summary: Interested in the turn based part, and the pixel art idea. Huge fan of pixel art. Likes the idea of a space themed game. Not as interested in multiplayer aspect.** 
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:** 
+**Interviewer: Jack Normand** \
+**Interviewee: Brock Davis** \
+**When: Feb 3rd, 2022** \
+**Consumer Segments: Friends that play games together, people who enjoy sci-fi media** 
 
 **Key insights**
 
+- Why do turn based games interest you?
+    - "I like turn based games because they require more thinking and strategy than other types of action games."
+
+- What part of this game are you most excited about
+    - "The sci-fi theme the game has seems like it could be cool. I hope it has a cool art style or the that the game looks nice."
+
  **Representative quotes**
+ 
+  - "The way a game looks is super important to me, so games with nice themes are pretty appealing"
+
+  - "Turn based games can be just as fun as live action games if done well"
 
  **Hypotheses that were validated**
+ 
+  - Turn-based games are just as fun
+
+  - Interested in the lack of limitations of a sci-fi game.
 
  **Assessment: Must have / Nice to have / Don’t care**
+ 
+  - 4 person mutliplayer
+    - Don't care. As long as it's multiplayer, I don't care how many people can play
+
+ - Matchmaking
+    - Don't care. Would be better just to queue up with your friends
+
+ - Pixel Graphics
+    - Nice to have. Art style is super important, and pixel art is great
+
+ - Turn Based Gameplay
+    - Must have. Turn based games are my favorite and this one with a multiplayer aspect sounds fun
+ 
+ 
 
 ## Final Value Proposition and Consumer Segments
