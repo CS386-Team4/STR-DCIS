@@ -178,20 +178,48 @@ Galactic Gunslingers brings a never seen before gaming experience where you get 
 
 ### Interview 5:
 
-**Summary:** 
+**Summary:** Thinks the idea of the game sounds intriguing and could have a lot of possibilities but does not like the turn based mechanic of it.
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:** 
+**Interviewer:** Caroline Fye\
+**Interviewee:** Adama Diallo\
+**When:** February 6, 2022\
+**Consumer Segments:** PC gamer that enjoys playing games with friends 
 
 **Key insights**
+- Interested in high stakes high reward of a rogeu-like game
+
+- Character customization and specialization like strength, agility, defense are important
+
+- Replayability is key to build levels and get better loot
 
  **Representative quotes**
+ 
+ - "Multiplayer games need to have a mechanic that involves getting a buff after doing things together"
+
+ - "I prefer my boss battles to be very difficult to the point where I need to look up a tutorial"
+
+ - "I hate turn based games because they arent immersive and you have a lack of control"
 
  **Hypotheses that were validated**
+ 
+ - Multiplayer is a must with a dungeon crawler
+
+ - Chests and puzzles are important reward mechanics in a game
+
+ - sci-fi and space themed is interesting and allows for a cool customization
 
  **Assessment: Must have / Nice to have / Don’t care**
+ 
+ - Must have:
+   - An in game chat and mechanics for dropping items for friends
+   - Skill based matchmaking
+ - Nice to have:
+   - A good story 
+   - Neat and stylized art style
+   - Learning curve in a game
+ - Dont care:
+   - Turn based mechanics
+   - Western media
 
 ### Interview 6:
 
