@@ -64,20 +64,41 @@ Galactic Gunslingers brings a never seen before gaming experience where you get 
  
  ### Interview 2:
 
-**Summary:** 
+**Summary: Overall enjoys the idea of the game so long as it feels fair, has good mechanics/artwork, and can show your progress throughout playing the game.** 
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:** 
+**Interviewer: Samuel Fye** \
+**Interviewee: Griffin Goldstein** \
+**When: February 6th, 2022** \
+**Consumer Segments: PC Gamer, Young adult, Friends that play games together** 
 
 **Key insights**
+ - Intuitive game menus
+
+ - Player should not be subjected to anything that ruins experience i.e. unmutable chat
+
+ - A way to show progress over time
 
  **Representative quotes**
+  - "Do you enjoy random or skilled mathmaking?"
+        - "I actually enjoy random matchmaking as it allows for interaction with a larger variety of players, especially in a game like this where you work together"
+ 
+  - "Do you like turn-based games? Why or why not?"
+        - "I do enjoy turn-based games as they allow you to get inside of your opponents mind more and make calculated decisions. The downside is how slow they move"
 
  **Hypotheses that were validated**
+ - Generally, moving with arrow keys is preferred over mouse clicking.
+
+ - Enjoys games with a challenge but not enough to make them quit playing. Balance.
 
  **Assessment: Must have / Nice to have / Don’t care**
+ - Replayability
+        - Must have. Doesn't enjoy games that are done in one playthrough.
+ - Multiplayer
+        - Nice to have. Doesn't mind playing games alone.
+ - Progress visualization
+        - Must have. Games not as fun without seeing progress.
+ - Good story
+        - Don't care. As long as game is fun story not necessary.
 
 ### Interview 3:
 
@@ -117,20 +138,43 @@ Galactic Gunslingers brings a never seen before gaming experience where you get 
 
 ### Interview 4:
 
-**Summary:** 
+**Summary: Enjoys the idea of the video game. Doesn't really have much roguelike experience and doesn't really feel like it is necessary for the game.** 
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:** 
+**Interviewer: Samuel Fye** \
+**Interviewee: Austin Engelbrecht** \
+**When: February 6th, 2022** \
+**Consumer Segments: PC gamer, enjoys sci-fi and western media, friends that play games together** 
 
 **Key insights**
+-  Interested in the lack of limitations of a sci-fi game.
+
+-  Interested in the fun role playing aspect of western style games.
+
+-  Good art style is a must.
 
  **Representative quotes**
+ - "Do you enjoy turn based dungeon crawlers?"
+        - "I do, but if there was some way to make the turn based games faster I would enjoy them more"
+       
+ - "What are your favorite parts of video games you enjoy?"
+        - "I would say I look for a good art style, story, and replayability in the games I play. I enjoy being immersed in the game"
 
  **Hypotheses that were validated**
+ - Wants responsive movement
+ 
+ - Sci-fi/western style has a lot of potential 
+ 
+ - Playing with friends is much more fun.
 
  **Assessment: Must have / Nice to have / Don’t care**
+ - Multiplayer
+    - Must Have. Doesn't quite enjoy games without other people to play with.
+ - Good story
+    - Nice to have. Not necessary but would add a lot to game.
+ - Roguelike aspect
+    - Don't care. Would play whether or not roguelike aspect is in game
+ - Good difficuulty
+    - Nice to have. Enjoys a good challenge but doesn't care too much if game is not too challenging.
 
 ### Interview 5:
 
