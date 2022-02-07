@@ -223,37 +223,74 @@ Galactic Gunslingers brings a never seen before gaming experience where you get 
 
 ### Interview 6:
 
-**Summary:** 
+**Summary:** Thinks the idea is interesting but does not really care much until there is a product to review.
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:** 
+**Interviewer:** Isaiah Raspet\
+**Interviewee:** Brevin Perez\
+**When:** February 6, 2020\
+**Consumer Segments:** PC gamer, *enjoys 2D Platformers, but "likes all types of games"
 
 **Key insights**
+ - Interested in the game
+ 
+ - Scared about the implications of turn based gameplay
 
  **Representative quotes**
+ - "It's turn based - ouch -"
+ 
+ - Regarding Features: "I don't care as long its fun"
+ 
+ - "I don't want death to make me not want to play the game"
+ 
+ - "But I also want to fear death"
 
  **Hypotheses that were validated**
+ - A match based dungeon crawler is new and interesting
+ 
+ - Multiplayer is a nice feature
 
  **Assessment: Must have / Nice to have / Don’t care**
+ -Must Have
+    - Difficult
+    - Fun Items
+    - Different Playstyles
+ - Nice to have
+    - Good Story
+ - Don't care
+    - Turn Based
 
 ### Interview 7:
 
-**Summary:** 
+**Summary:** This is an interesting concept that this interviewee would be open to trying if we were willing to consider including real time PvP
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:** 
+**Interviewer:** Isaiah Raspet\
+**Interviewee:** Lean Copia\
+**When:** February 6, 2022\
+**Consumer Segments:** Plays games with friends; FPS Player for the most part, but not exclusively
 
 **Key insights**
+The game play will not be fast enough
+This game is not for this interviewee but he understands the general appeal
+
 
  **Representative quotes**
+ "I want to be able to benefit from eliminating other players"
+ "I've never been a turnbased kind of guy"
+ "A lot of people like pokemon"
+ "It wouldn't be for me"
 
  **Hypotheses that were validated**
+ High Stakes is satisfying
+ 
 
  **Assessment: Must have / Nice to have / Don’t care**
+ - Must Have
+    - PvP
+    - Real time PvP
+ - Nice to Have
+    - Cosmetics
+ - Doesn't Care
+    - N/A
  ### Interview 8:
 
 **Summary:** 
