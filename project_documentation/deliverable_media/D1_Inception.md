@@ -293,20 +293,25 @@ This game is not for this interviewee but he understands the general appeal
     - N/A
  ### Interview 8:
 
-**Summary:** 
+**Summary:** Heavy focus on good game dev practices. More interest in style and feel than specific mechanics.
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:** 
+**Interviewer:** Bronwyn Wedig\
+**Interviewee:** Duncan Wedig\
+**When:** Feb 6\
+**Consumer Segments: PC gamers, people who enjoy sci-fi media** 
 
 **Key insights**
+- Pay attention to things you do/don't want the player to do.
+- Tone and theming are crucial.
 
  **Representative quotes**
-
- **Hypotheses that were validated**
+ - "If a game has an art style and sticks to it, that's personally more interesting to me than fancy graphics. I want to be experiencing art, not technological accomplishments"
+- "If a game has combat ... combat should have some sort of appeal"
 
  **Assessment: Must have / Nice to have / Don’t care**
+- Accessibility (built in or options): must have
+- Percievable input/output: must have
+- Consistent art: must have (more important than good art)
  
  ### Interview 9:
 
