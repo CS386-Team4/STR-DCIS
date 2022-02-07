@@ -317,3 +317,12 @@ Galactic Gunslingers brings a never seen before gaming experience where you get 
  
 
 ## Final Value Proposition and Consumer Segments
+**Final Value Proposition:** Galactic Gunslingers is a hybrid game consisting of turnbased movement and real time combat where you can choose to play single player or team up with friends to battle your way through the galaxy.
+
+**Consumer Segments:**
+- PC gamers
+- Pre-teens, adolescents, and young adults
+- People who enjoy sci-fi media
+- People who enjoy western media
+- Gamers that enjoy turn-based mechanics
+- Friends that play games together
