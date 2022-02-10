@@ -4,27 +4,27 @@
 _Group 04 – “Galactic Gunslingers”\
 Date: February 10, 2022\
 Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Normand, Bronwyn Wedig_
-## Positioning
+#### Positioning
 **Problem Statement:**
 
 **Product Position Statement:**
 
 **Value Proposition and Customer Segment**
 
-## Stakeholders
+#### Stakeholders
 
-## Functional Requirements (Features)
+#### Functional Requirements (Features)
 
-## Non-functional Requirements
+#### Non-functional Requirements
 
-## MVP
+#### MVP
 
-## Use Cases
+#### Use Cases
 
 **Use Case Diagram**
 
 **Use Case Descriptions and Interface Sketch**
 
-## User Stories
+#### User Stories
 
-## Issue Tracker
+#### Issue Tracker
