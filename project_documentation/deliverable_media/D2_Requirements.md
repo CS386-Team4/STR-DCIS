@@ -6,6 +6,7 @@ Date: February 10, 2022\
 Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Normand, Bronwyn Wedig_
 ## Positioning
 **Problem Statement:**
+The problem of extreme boredom affects all gamers at some point; the impact of which is 
 
 **Product Position Statement:**
 
