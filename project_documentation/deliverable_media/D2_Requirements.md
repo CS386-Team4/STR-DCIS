@@ -27,5 +27,7 @@ The problem of extreme boredom affects all gamers at some point; the impact of w
 **Use Case Descriptions and Interface Sketch**
 
 ## User Stories
+User Story 1: "As an end user, I want to be able to play with friends so I can share fun experiences in real time." Priority: 10 Estimated Hours: 30
+User Story 2: "As an end user, I want to be able to adjust game settings so I won't get annoyed if the game is too bright/loud." Priority:5 Estimated Hours: 10
 
 ## Issue Tracker
