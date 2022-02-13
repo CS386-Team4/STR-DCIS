@@ -53,7 +53,12 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 
 ## User Stories
 User Story 1: "As a PC gamer, I want to be able to play with friends so I can share fun experiences in real time." Priority: 10 Estimated Hours: 30
+
 User Story 2: "As an end user, I want to be able to adjust game settings so I won't get annoyed if the game is too bright/loud." Priority:5 Estimated Hours: 10
+
+User Story 3: "As a person who enjoys sci-fi media, I want a cool theme to the game so that it doesn't feel bland and boring." Priority: 7 Estimated Hours: 15
+
+User Story 4: "As a gamer who enjoys turn based mechanics, I want a game that requries strategy and thought so that I can feel rewarded for using my brain" Priority: 8 Estimated Hours: 15
 
 ## Issue Tracker
 https://github.com/CS386-Team4/STR-DCIS/projects/2
