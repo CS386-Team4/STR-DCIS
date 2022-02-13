@@ -56,3 +56,4 @@ User Story 1: "As a PC gamer, I want to be able to play with friends so I can sh
 User Story 2: "As an end user, I want to be able to adjust game settings so I won't get annoyed if the game is too bright/loud." Priority:5 Estimated Hours: 10
 
 ## Issue Tracker
+https://github.com/CS386-Team4/STR-DCIS/projects/2
