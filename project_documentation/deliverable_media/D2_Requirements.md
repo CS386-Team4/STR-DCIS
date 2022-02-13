@@ -20,6 +20,31 @@ The problem of extreme boredom affects all gamers at some point; the impact of w
 
 ## MVP
 Constructing a minimal viable product for a turn-based, roguelike, dungeon crawler computer game means finding the key game feature requirements that are a must need to still have a playable game. In our game's scenario, the MVP will consist of a simple game hub, one game level to start, focus on singleplayer game design, basic artwork/sound, and just enough in game functionality to play (ex. movement, attacking, jumping, etc.). After we have completed desining this very early state of our computer game, we will release it to a couple of users in order to gain constructive feedback on how this game could be improved upon. After the users are done testing our game, we will take in whatever feedback provided whether it be they want a new artstyle, multiplayer, specific game items, etc. We will then start implementing only these specified features and have users test our game again in this interative game development process. This practice is useful because it will prevent us from going overboard with features that we assume our users want. It also prevents us from creating a finished game that has had no user input throughout the game development process.
+
+## Functional Requirements
+1. Multiplayer
+2. Tile Based Movement
+3. Multiple Characters
+4. Player Accounts
+5. Matchmaking
+6. Graphical Models
+7. Sprite Animations
+8. Looting/Inventory
+9. Combat
+
+## Nonfunctional Requirements
+1. Accessibility
+2. Data Integrity
+3. Operability
+4. Durability
+5. Fault Tolerance
+6. Licensing
+7. Network Topology
+8. Privacy
+9. Security/Safety
+10. Usability
+11. Localization
+
 ## Use Cases
 
 **Use Case Diagram**
