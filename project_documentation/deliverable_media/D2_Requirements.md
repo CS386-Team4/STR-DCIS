@@ -163,7 +163,6 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 6. Developers review feedback and decide to implement
 
 **Alternative flow**:\
-
 3a. If bug is game-breaking, player can report in game\
 3b. Game sends diagnostics to developers
 
