@@ -5,8 +5,7 @@ _Group 04 – “Galactic Gunslingers”\
 Date: February 10, 2022\
 Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Normand, Bronwyn Wedig_
 ## Positioning
-**Problem Statement:**\
-The problem of extreme boredom affects all gamers at some point; the impact of which is 
+**Problem Statement:**\ 
 The problem of lack of roguelike multiplayer games affects multiplayer gamers, the impact of which is a dearth of specific types of multiplayer challenges.
 
 **Product Position Statement:**\
