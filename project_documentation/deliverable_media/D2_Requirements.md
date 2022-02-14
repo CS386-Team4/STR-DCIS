@@ -52,6 +52,12 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 
 **Use Case Descriptions and Interface Sketch**
 
+Use case 1: Plays game
+Primary Actor: Gamer/Player
+Description: The gamer interacts with the game by following through on in game objectives
+
+
+
 ## User Stories
 User Story 1: "As a PC gamer, I want to be able to play with friends so I can share fun experiences in real time." 
 Priority: 10 
