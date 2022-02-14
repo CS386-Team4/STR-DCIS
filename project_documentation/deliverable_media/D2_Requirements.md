@@ -5,14 +5,19 @@ _Group 04 – “Galactic Gunslingers”\
 Date: February 10, 2022\
 Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Normand, Bronwyn Wedig_
 ## Positioning
-**Problem Statement:**
+**Problem Statement:**\
 The problem of extreme boredom affects all gamers at some point; the impact of which is 
+The problem of lack of roguelike multiplayer games affects multiplayer gamers, the impact of which is a dearth of specific types of multiplayer challenges.
 
-**Product Position Statement:**
+**Product Position Statement:**\
+For gamers who want a roguelike game to play with friends, Galactic Gunslingers is a multiplayer roguelike that allows players to tackle roguelike challenges with friends; unlike many games, our product incorporates multiplayer without sacrificing key features of the genre.
 
-**Value Proposition and Customer Segment**
+**Value Proposition and Customer Segment:**\
+Galactic Gunslingers is a multiplayer roguelike that allows gamers to tackle roguelike challenges with their friends.
 
 ## Stakeholders
+Players: The players will be the end users of our game.\
+Developers: The developers are responsible for creating the software and making sure it works properly.
 
 ## Functional Requirements (Features)
 
