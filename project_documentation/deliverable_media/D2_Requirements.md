@@ -113,30 +113,58 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 
 <img src="/UseCase3.png">
 
-**Use case 4**:
-**Primary Actor**:
-**Description**:
-**Pre-conditions**:
-**Post-conditions**:
+**Use case 4**: Adds friends via matchmaking\
+**Primary Actor**: Gamer/Player\
+**Description**: Users can add friends from matchmaking during and after game using friend UI\
+**Pre-conditions**: Matchmaking system must be complete, friend system in place\
+**Post-conditions**: Users will have satisfactory friends list where they can invite old friends to play with them\
+**Main flow**: 
+1. Player joins lobby with randomy individuals\
+2. Player plays game with other players\
+4. Game ends for all\
+5. Player can click a button to send a request to recently played with players\
+6. Other player accepts or declines invite\
+7. If accepted, both players are added to each other's friends list\
+**Alternative flow**:
+3a. Player can send invite during game\
+3b. Players can accept friend invite during game\
+
+<img src="/UseCase4.png">
+
+
+**Use case 5**: Designs art and textures\
+**Primary Actor**: Game Developer\
+**Description**: Game developers create an immersive experience for the user\
+**Pre-conditions**: Game must be finished besides the artwork to create a coherent game\
+**Post-conditions**: Developers continually update the artwork and graphics to ensure a smooth gaming experience\
 **Main flow**:
+1. Developers finish creating game idea\
+2. Developers create mechanics of game with basic shapes\
+3. Developers fill in these basic shapes with textures, art, and models\
+4. Developers continue to improve upon textures after release\
+**Alternative flow**:
+2a. Developers fill in the artwork while creating the mechanics\
+
+<img src="/UseCase5.png">
+
+**Use case 6**: Gives feedback on playability\
+**Primary Actor**:Gamer/Player\
+**Description**: Player can type personal feedback on game outside of live games\
+**Pre-conditions**: The game must be finished at this point, a feedback interface is created\
+**Post-conditions**: As players can give feedback, developers are ready to improve the game to increase satisfaction\
+**Main flow**:
+1. Player plays game as normal\
+2. Player encounters a bug or annoyance in game\
+3. Once game has ended player opens a feedback interface\
+4. Player fills out short survey\
+5. Player fills out open-ended prompts\
+6. Developers review feedback and decide to implement\
 **Alternative flow**:
 
-**Use case 5**:
-**Primary Actor**:
-**Description**:
-**Pre-conditions**:
-**Post-conditions**:
-**Main flow**:
-**Alternative flow**:
+3a. If bug is game-breaking, player can report in game\
+3b. Game sends diagnostics to developers\
 
-**Use case 6**:
-**Primary Actor**:
-**Description**:
-**Pre-conditions**:
-**Post-conditions**:
-**Main flow**:
-**Alternative flow**:
-
+<img src="/UseCase6.png">
 
 ## User Stories
 User Story 1: "As a PC gamer, I want to be able to play with friends so I can share fun experiences in real time." 
@@ -178,6 +206,14 @@ Estimated Hours: 20
 User Story 10: "As a gamer who enjoys community experiences, I like to be able to play with friends"
 Priority: 4
 Estimated Hours: 25
+
+User Story 11: "As a gamer who enjoys showing off to my friends, I want to be able to purchase flashy skins that I can use in-game"
+Priority: 5
+Estimated Hours: 15
+
+User Story 12: "As a gamer who enjoys interactivity in games, I want to be able to emote and communicate with other players in my game"
+Priority: 2
+Estimated Hours: 10
 
 ## Issue Tracker
 https://github.com/CS386-Team4/STR-DCIS/projects/2
