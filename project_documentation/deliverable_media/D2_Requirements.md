@@ -119,15 +119,15 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 **Pre-conditions**: Matchmaking system must be complete, friend system in place\
 **Post-conditions**: Users will have satisfactory friends list where they can invite old friends to play with them\
 **Main flow**: 
-1. Player joins lobby with randomy individuals\
-2. Player plays game with other players\
-4. Game ends for all\
-5. Player can click a button to send a request to recently played with players\
-6. Other player accepts or declines invite\
-7. If accepted, both players are added to each other's friends list\
-**Alternative flow**:
-3a. Player can send invite during game\
-3b. Players can accept friend invite during game\
+1. Player joins lobby with randomy individuals
+2. Player plays game with other players
+4. Game ends for all
+5. Player can click a button to send a request to recently played with players
+6. Other player accepts or declines invite
+7. If accepted, both players are added to each other's friends list
+**Alternative flow**:\
+3a. Player can send invite during game
+3b. Players can accept friend invite during game
 
 <img src="/UseCase4.png">
 
@@ -138,12 +138,12 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 **Pre-conditions**: Game must be finished besides the artwork to create a coherent game\
 **Post-conditions**: Developers continually update the artwork and graphics to ensure a smooth gaming experience\
 **Main flow**:
-1. Developers finish creating game idea\
-2. Developers create mechanics of game with basic shapes\
-3. Developers fill in these basic shapes with textures, art, and models\
-4. Developers continue to improve upon textures after release\
-**Alternative flow**:
-2a. Developers fill in the artwork while creating the mechanics\
+1. Developers finish creating game idea
+2. Developers create mechanics of game with basic shapes
+3. Developers fill in these basic shapes with textures, art, and models
+4. Developers continue to improve upon textures after release
+**Alternative flow**:\
+2a. Developers fill in the artwork while creating the mechanics
 
 <img src="/UseCase5.png">
 
@@ -153,13 +153,13 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 **Pre-conditions**: The game must be finished at this point, a feedback interface is created\
 **Post-conditions**: As players can give feedback, developers are ready to improve the game to increase satisfaction\
 **Main flow**:
-1. Player plays game as normal\
-2. Player encounters a bug or annoyance in game\
-3. Once game has ended player opens a feedback interface\
-4. Player fills out short survey\
-5. Player fills out open-ended prompts\
-6. Developers review feedback and decide to implement\
-**Alternative flow**:
+1. Player plays game as normal
+2. Player encounters a bug or annoyance in game
+3. Once game has ended player opens a feedback interface
+4. Player fills out short survey
+5. Player fills out open-ended prompts
+6. Developers review feedback and decide to implement
+**Alternative flow**:\
 
 3a. If bug is game-breaking, player can report in game\
 3b. Game sends diagnostics to developers\
