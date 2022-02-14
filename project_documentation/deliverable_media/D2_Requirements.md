@@ -54,10 +54,73 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 
 **Use Case Descriptions and Interface Sketch**
 
-#Use case 1: Plays game
-#Primary Actor: Gamer/Player
-#Description: The gamer interacts with the game by following through on in game objectives
+**Use case 1**: Plays game\
+**Primary Actor**: Gamer/Player\
+**Description**: The gamer interacts with the game by following through on in game objectives\
+**Pre-conditions**: Gamer logs on to game\
+**Post-conditions**: Gamer wins or loses game\
+**Main flow**:
+1. The player logs onto the game
+2. The player starts the game from the title screen
+3. The player adds friends
+4. The player goes room to room
+5. The player gains loot
+6. The player defeats or is defeated by bosses
+7. The player loses or wins the game
 
+**Alternative flow**:\
+5a. Player does not gain loot\
+5b. Other players gain Player's loot
+
+**Use case 2**: Buys in game purchases\
+**Primary Actor**: Gamer/Player\
+**Description**: Player is prompted with an interface and then purchases an in-game item\
+**Pre-conditions**: Player has an account associated with the game\
+**Post-conditions**: Player gains the item associated with the purchase\
+**Main flow**: 
+1. Player chooses in game purchase to buy
+2. Player is redirected to another page
+3. Player is prompted for their account
+4. Player is prompted for their payment information
+5. Player pays
+6. Player is redirected back to the game
+7. Player is given item associated with purchase
+
+**Alternative flow**:
+2a. Player may stay in game with no redirection
+3a. Player is already logged on to account
+
+**Use case 3**: Maintains software\
+**Primary Actor**: Game Developers\
+**Description**: Game developers maintain the game by regularly updating it\
+**Pre-conditions**: The game must already be complete\
+**Post-conditions**: The game is updated with new events and items\
+**Main flow**:
+**Alternative flow**:
+
+**Use case 4**:
+**Primary Actor**:
+**Description**:
+**Pre-conditions**:
+**Post-conditions**:
+**Main flow**:
+**Alternative flow**:
+
+**Use case 5**:
+**Primary Actor**:
+**Description**:
+**Pre-conditions**:
+**Post-conditions**:
+**Main flow**:
+**Alternative flow**:
+
+**Use case 6**:
+**Primary Actor**:
+**Description**:
+**Pre-conditions**:
+**Post-conditions**:
+**Main flow**:
+**Alternative flow**:
 
 
 ## User Stories
