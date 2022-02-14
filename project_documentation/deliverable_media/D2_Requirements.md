@@ -69,7 +69,7 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 7. The player loses or wins the game
 
 **Alternative flow**:\
-2a. Player creates an account
+2a. Player creates an account\
 5a. Player does not gain loot\
 5b. Other players gain Player's loot
 
@@ -89,9 +89,11 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 6. Player is redirected back to the game
 7. Player is given item associated with purchase
 
-**Alternative flow**:
-2a. Player may stay in game with no redirection
+**Alternative flow**:\
+2a. Player may stay in game with no redirection\
 3a. Player is already logged on to account
+
+<img src="/UseCase2.png">
 
 **Use case 3**: Maintains software\
 **Primary Actor**: Game Developers\
@@ -103,10 +105,13 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 2. Developers implement new C code into game
 3. Developers track bugs in the new code
 4. Developers test and run this update
-5. Once ready, Developers release the update to be played
+5. Once ready, Developers release the update
+6. Players see update screen
 
 **Alternative flow**:\
 3a. Developers hire testers to test the update
+
+<img src="/UseCase3.png">
 
 **Use case 4**:
 **Primary Actor**:
