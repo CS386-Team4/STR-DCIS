@@ -73,11 +73,11 @@ Priority: 8
 Estimated Hours: 15
 
 User Story 5: "As a gamer who enjoys a turn based game, I want a game with quick combat so I do not have to waste time on slow mechanics"
-Priority: 4
+Priority: 8
 Estimated Hours: 15
 
 User Story 6: "As a person who enjoys sci-fi media, I want a game with a lot of player customization so that I can feel immersed."
-Priority: 9
+Priority: 1
 Estimated hours: 20
 
 ## Issue Tracker
