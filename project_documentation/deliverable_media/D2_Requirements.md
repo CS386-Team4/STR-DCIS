@@ -54,9 +54,9 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 
 **Use Case Descriptions and Interface Sketch**
 
-Use case 1: Plays game
-Primary Actor: Gamer/Player
-Description: The gamer interacts with the game by following through on in game objectives
+#Use case 1: Plays game
+#Primary Actor: Gamer/Player
+#Description: The gamer interacts with the game by following through on in game objectives
 
 
 
