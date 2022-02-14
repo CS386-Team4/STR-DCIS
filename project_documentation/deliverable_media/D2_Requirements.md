@@ -124,7 +124,7 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 4. Game ends for all
 5. Player can click a button to send a request to recently played with players
 6. Other player accepts or declines invite
-7. If accepted, both players are added to each other's friends list
+7. If accepted, both players are added to each other's friends list\
 **Alternative flow**:\
 3a. Player can send invite during game\
 3b. Players can accept friend invite during game
@@ -141,7 +141,7 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 1. Developers finish creating game idea
 2. Developers create mechanics of game with basic shapes
 3. Developers fill in these basic shapes with textures, art, and models
-4. Developers continue to improve upon textures after release
+4. Developers continue to improve upon textures after release\
 **Alternative flow**:\
 2a. Developers fill in the artwork while creating the mechanics
 
@@ -158,7 +158,7 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 3. Once game has ended player opens a feedback interface
 4. Player fills out short survey
 5. Player fills out open-ended prompts
-6. Developers review feedback and decide to implement
+6. Developers review feedback and decide to implement\
 **Alternative flow**:\
 
 3a. If bug is game-breaking, player can report in game\
