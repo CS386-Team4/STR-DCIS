@@ -68,6 +68,8 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 6. The player defeats or is defeated by bosses
 7. The player loses or wins the game
 
+<img src="/UseCase1.png">
+
 **Alternative flow**:\
 5a. Player does not gain loot\
 5b. Other players gain Player's loot
