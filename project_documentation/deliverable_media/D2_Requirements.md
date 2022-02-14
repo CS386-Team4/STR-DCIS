@@ -126,7 +126,7 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 6. Other player accepts or declines invite
 7. If accepted, both players are added to each other's friends list
 **Alternative flow**:\
-3a. Player can send invite during game
+3a. Player can send invite during game\
 3b. Players can accept friend invite during game
 
 <img src="/UseCase4.png">
@@ -162,7 +162,7 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 **Alternative flow**:\
 
 3a. If bug is game-breaking, player can report in game\
-3b. Game sends diagnostics to developers\
+3b. Game sends diagnostics to developers
 
 <img src="/UseCase6.png">
 
