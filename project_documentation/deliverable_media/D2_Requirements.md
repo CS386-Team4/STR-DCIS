@@ -80,5 +80,13 @@ User Story 6: "As a person who enjoys sci-fi media, I want a game with a lot of 
 Priority: 1
 Estimated hours: 20
 
+User story 7: "As a gamer who wants to be entertained, I want variations in gameplay so I don't get bored from doing the same thing constantly." 
+Priority: 4
+Estimated Hours: 15
+
+User story 8: "As a gamer whose experience is impacted by style, I want a consistent art style so I can better focus on the gameplay itself." 
+Priority: 7
+Estimated Hours: 20
+
 ## Issue Tracker
 https://github.com/CS386-Team4/STR-DCIS/projects/2
