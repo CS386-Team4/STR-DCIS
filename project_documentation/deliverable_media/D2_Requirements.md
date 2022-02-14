@@ -85,5 +85,13 @@ User story 8: "As a gamer whose experience is impacted by style, I want a consis
 Priority: 7
 Estimated Hours: 20
 
+User story 9: "As a gamer whose enjoys high stakes, I enjoy permanent death"
+Priority: 4
+Estimated Hours: 20
+
+User Story 10: "As a gamer who enjoys community experiences, I like to be able to play with friends"
+Priority: 4
+Estimated Hours: 25
+
 ## Issue Tracker
 https://github.com/CS386-Team4/STR-DCIS/projects/2
