@@ -96,7 +96,14 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 **Pre-conditions**: The game must already be complete\
 **Post-conditions**: The game is updated with new events and items\
 **Main flow**:
-**Alternative flow**:
+1. Game Developers complete game
+2. Developers implement new C code into game
+3. Developers track bugs in the new code
+4. Developers test and run this update
+5. Once ready, Developers release the update to be played
+
+**Alternative flow**:\
+3a. Developers hire testers to test the update
 
 **Use case 4**:
 **Primary Actor**:
