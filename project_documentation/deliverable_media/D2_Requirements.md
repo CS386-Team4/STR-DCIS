@@ -50,6 +50,8 @@ Constructing a minimal viable product for a turn-based, roguelike, dungeon crawl
 
 **Use Case Diagram**
 
+![](UseCaseDiagram.png)
+
 **Use Case Descriptions and Interface Sketch**
 
 Use case 1: Plays game
