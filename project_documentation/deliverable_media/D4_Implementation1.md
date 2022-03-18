@@ -14,7 +14,8 @@ The system that has been implemented thus far is a simple single player game tha
 
 ## 4. Adopted Technologies
 *Unity* 
-- A game engine is required to create the game and Unity is very widely used with quite a bit of online information and tutorials. It is also known for being one of the more user friendly engines for beginners in creating video games.\
+- A game engine is required to create the game and Unity is very widely used with quite a bit of online information and tutorials. It is also known for being one of the more user friendly engines for beginners in creating video games.
+
 *Visual Studio*
 - C# goes hand-in-hand with Unity making it an obvious choice for the scripts in the game. Visual Studio is also a fairly easy-to-use IDE for writing in C# so it was widely used in writing the scripts for the project.
 
