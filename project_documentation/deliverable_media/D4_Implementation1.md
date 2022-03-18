@@ -29,7 +29,10 @@ Some of the team members already had some experience with Unity but a vast major
 ## 8. Readme File
 
 ## 9. Look and Feel
+The look and feel of the project was aimed at making the experience as easy to understand as possible for the user. A simple menu screen with a "play", "settings", and "exit" button are all intuitive on their functionality. The game itself has the user walk around with the "wasd" keys which are widely known in video games for player movement and buttons clicked with a mouse for attacking and healing. As for the actual art style of the game, we went with a cartoon/pixel-like approach. We wanted the game to have a playful and non-serious feel and accomplished that with the style and color choices. 
+**ADD SCREENSHOTS ADD SCREENSHOTS ADD SCREENSHOTS**
 
 ## 10. Lessons Learned
+In retrospective, the team found out that creating the simplest ideas in a video game can take a lot more time than initially thought. As we are all relatively new to game-design and Unity, this issue should lessen as we all gain more knowledge of the engine. **NOT FINISHED**
 
 ## 11. Demo
