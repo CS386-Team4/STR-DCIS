@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{215584BB-7515-4361-A318-25AD36446CC7}|Default">
+  <MonoDevelop.Ide.ItemProperties.GGServer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GGServer/Program.cs">
+    <Files>
+      <File FileName="GGServer/Program.cs" Line="26" Column="22" />
+      <File FileName="GGServer/Instruction.cs" Line="13" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
