@@ -11,7 +11,16 @@ The system that has been implemented thus far is a simple single player game tha
 **Need pull requests"
 
 ## 3. Tests
-
+    **3.1.1**
+    The framework used to develop our tests was the Unity Test Framework (UTF) which is the built in unit-testing framework in Unity.
+    **3.1.2**
+    Link to our unit tests (https://github.com/CS386-Team4/STR-DCIS/tree/main/Source/STR-DCIS/Assets/Tests/EditMode)
+    **3.1.3**
+    Test Case Example: In this example, we unit tested our user's health functionality that returns True or False depending on whether or not their character still has health. We also unit tested the healing functionality and made sure that the character's health never exceeded our max health limit in these unit tests.
+    Class Being Tested (https://github.com/CS386-Team4/STR-DCIS/blob/main/Source/STR-DCIS/Assets/Scripts/HealthCalculator.cs)
+    Unit Test (https://github.com/CS386-Team4/STR-DCIS/blob/main/Source/STR-DCIS/Assets/Tests/EditMode/unit_test.cs)
+    **3.1.4**
+    ![](./images/TestRun.png)
 ## 4. Adopted Technologies
 *Unity* 
 - A game engine is required to create the game and Unity is very widely used with quite a bit of online information and tutorials. It is also known for being one of the more user friendly engines for beginners in creating video games.
