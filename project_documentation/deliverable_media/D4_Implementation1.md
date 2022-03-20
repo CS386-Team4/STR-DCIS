@@ -8,13 +8,13 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 The system that has been implemented thus far is a simple single player game that allows players to traverse a start level and fight an enemy. Future implementation will allow for multiplayer and permanent death. As of now, the game consists of a menu screen with buttons for "start game", "settings", and "exit" along with the title Galactic Gunslingers. Background art and music have been added to this menu screen as well. The settings screen currently only has a volume adjuster and a "back" button. Once the "start game" button is selected, the player is brought to a starting level with an animated enemy and more background art. The player can walk towards the enemy and when they collide the battle scene is loaded. This final scene that has been created allows the player to either attack the enemy or heal themselves, with more background art. 
 
 ## 2. Implemented Requirements 
-**Need pull requests"
-Requirement: As a Student, I want to add a homework assignment so that I can organize my ToDo list.
-Issue: <link to your Trello or GitHub issue>
-Pull request: https://github.com/user/project/pull/426
-Implemented by: Martin Fowler
-Approved by: Ada Lovelace
-Print screen: A print screen that depicts the implemented feature (if applicable)
+**Need pull requests"\
+Requirement: As a Student, I want to add a homework assignment so that I can organize my ToDo list.\
+Issue: <link to your Trello or GitHub issue>\
+Pull request: https://github.com/user/project/pull/426\
+Implemented by: Martin Fowler\
+Approved by: Ada Lovelac\
+Print screen: A print screen that depicts the implemented feature (if applicable)\
 
 ## 3. Tests
 *3.1.1*
