@@ -23,7 +23,7 @@ The system that has been implemented thus far is a simple single player game tha
 - Unit Test (https://github.com/CS386-Team4/STR-DCIS/blob/main/Source/STR-DCIS/Assets/Tests/EditMode/unit_test.cs)
 
 *3.1.4*
-![](./images/TestRun.png)
+![](./images/TestRun.jpg)
 
 ## 4. Adopted Technologies
 *Unity* 
