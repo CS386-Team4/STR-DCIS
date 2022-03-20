@@ -72,13 +72,13 @@ relatively simple.
 
 ## 7. Licensing
 **MIT License**
-- [Our Lincense](https://github.com/CS386-Team4/STR-DCIS/blob/main/LICENSE.md)
+- [Our Lincense](https://github.com/CS386-Team4/STR-DCIS/blob/main/LICENSE)
 - [MIT Lincense Description](https://choosealicense.com/licenses/mit/)
 
 Our group decided we wanted to implement an MIT License so everyone can have access to our game's files and be able to have full creative control over how they would create our game differently. We also chose this particular license so that we have no responsibility/liability if our code doesn't work, breaks something, etc.
 
 ## 8. Readme File
-The [README.md](/README.md) file has been updated along with the creation of [CONTRIBUTING.md](/CONTRIBUTING.md), [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md), and [LICENSE.md](/LICENSE.md).
+The [README.md](/README.md) file has been updated along with the creation of [CONTRIBUTING.md](/CONTRIBUTING.md), [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md), and [LICENSE](/LICENSE).
 
 ## 9. Look and Feel
 The look and feel of the project was aimed at making the experience as easy to understand as possible for the user. A simple menu screen with a "play", "settings", and "exit" button are all intuitive on their functionality. The game itself has the user walk around with the "wasd" keys which are widely known in video games for player movement and buttons clicked with a mouse for attacking and healing. As for the actual art style of the game, we went with a cartoon/pixel-like approach. We wanted the game to have a playful and non-serious feel and accomplished that with the style and color choices. 
