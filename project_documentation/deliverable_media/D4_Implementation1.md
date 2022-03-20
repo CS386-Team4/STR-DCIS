@@ -13,21 +13,21 @@ Issue: N/A\
 Pull request: https://github.com/CS386-Team4/STR-DCIS/pull/1\
 Implemented by: Jaron Bauers\
 Approved by: Caroline Fye\
-Print screen: <img src ="/StartMenu.pdf">\
+Print screen: <img src ="/project_documentation/deliverable_media/images/Menu.png">\
 \
 Requirement: "As an end user, I want to be able to adjust game settings so I won't get annoyed if the game is too bright/loud."\
 Issue: N/A\
 Pull request: https://github.com/CS386-Team4/STR-DCIS/pull/2\
 Implemented by: Jack Normand\
 Approved by: Caroline Fye\
-Print screen: <img src ="/OptionsScreen.pdf">\
+Print screen: <img src ="/project_documentation/deliverable_media/images/OptionScreen.png">\
 \
 Requirement: "As a gamer who enjoys turn based mechanics, I want a game that requries strategy and thought so that I can feel rewarded for using my brain"\
 Issue: N/A\
 Pull request: https://github.com/CS386-Team4/STR-DCIS/pull/3\
 Implemented by: Caroline Fye\
 Approved by: Jaron Bauers\
-Print screen: <img src ="/TurnBasedSC.pdf">\
+Print screen: <img src ="/project_documentation/deliverable_media/images/CombatScreen.png">\
 \
 Requirement: "As a gamer who enjoys community experiences, I like to be able to play with friends"\
 Issue: N/A\
