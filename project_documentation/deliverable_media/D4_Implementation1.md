@@ -9,6 +9,12 @@ The system that has been implemented thus far is a simple single player game tha
 
 ## 2. Implemented Requirements 
 **Need pull requests"
+Requirement: As a Student, I want to add a homework assignment so that I can organize my ToDo list.
+Issue: <link to your Trello or GitHub issue>
+Pull request: https://github.com/user/project/pull/426
+Implemented by: Martin Fowler
+Approved by: Ada Lovelace
+Print screen: A print screen that depicts the implemented feature (if applicable)
 
 ## 3. Tests
 *3.1.1*
