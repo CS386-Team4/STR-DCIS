@@ -21,7 +21,7 @@ Please read our CONTRIBUTING.md and CODE_OF_CONDUCT.md files for more informatio
 Current version of Galactic Gunslingers is 0.0.1
 
 # License
-See LICENSE.md for details.
+See [LICENSE.md](LICENSE.md) for details.
 
 # Authors
 * Samuel Fye
