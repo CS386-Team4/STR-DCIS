@@ -77,7 +77,9 @@ The [README.md](/README.md) file has been updated along with the creation of [CO
 
 ## 9. Look and Feel
 The look and feel of the project was aimed at making the experience as easy to understand as possible for the user. A simple menu screen with a "play", "settings", and "exit" button are all intuitive on their functionality. The game itself has the user walk around with the "wasd" keys which are widely known in video games for player movement and buttons clicked with a mouse for attacking and healing. As for the actual art style of the game, we went with a cartoon/pixel-like approach. We wanted the game to have a playful and non-serious feel and accomplished that with the style and color choices. 
-**ADD SCREENSHOTS ADD SCREENSHOTS ADD SCREENSHOTS**
+<img src ="/project_documentation/deliverable_media/images/GG1.JPG">
+<img src ="/project_documentation/deliverable_media/images/GG2.JPG">
+<img src ="/project_documentation/deliverable_media/images/GG3.JPG">
 
 ## 10. Lessons Learned
 In retrospective, the team found out that creating the simplest ideas in a video game can take a lot more time than initially thought. As we are all relatively new to game-design and Unity, this issue should lessen as we all gain more knowledge of the engine. We made the correct choice at the beginning of the implementation to create smaller sub-groups that each work on different scenes. Splitting up the project this way allowed for much more work to get done but opened up the possibility of an inconsistent feel to the game. In the future, it may be a good idea to have one person stitch together all of the created scenes to allow for more fluidity in the game. Overall, this minimal implementation felt largely successful and we will continue to work together in a similar fashion for future implementation.
