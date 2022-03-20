@@ -62,6 +62,13 @@ Approved by: Caroline Fye\
 Some of the team members already had some experience with Unity but a vast majority of the learning done for the implementation of this project was conducted through Youtube. There are plenty of tutorials on how to create everything from menu screens to the health bars that were put in the video game. For any questions that go beyond what the Youtube videos showed, forum-type websites were used to find the answers. Two main examples incldue StackOverflow and Unity's own forum on their website. Unity has a decent learning curve at the very start but once the basics were understood was not too big of an issue for the team.
 
 ## 6. Deployment
+The game server is deployed with AWS, which gives us free access to remote computation.
+The Server is opened up to be able to receive User Datagram Protocol (UDP) requests from 
+any source but only responds to requests in a specific format. The actual serving 
+application is built in C# with the .NET framework that makes working with network 
+requests very simple. The game communicated with the server with an API that is currently 
+being written. The goal of this API is to make the requests to and from the server 
+relatively simple.
 
 ## 7. Licensing
 
