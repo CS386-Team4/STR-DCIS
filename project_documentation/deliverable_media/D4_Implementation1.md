@@ -71,6 +71,11 @@ being written. The goal of this API is to make the requests to and from the serv
 relatively simple.
 
 ## 7. Licensing
+**MIT License**
+- [Our Lincense](https://github.com/CS386-Team4/STR-DCIS/blob/main/LICENSE.md)
+- [MIT Lincense Description](https://choosealicense.com/licenses/mit/)
+
+Our group decided we wanted to implement an MIT License so everyone can have access to our game's files and be able to have full creative control over how they would create our game differently. We also chose this particular license so that we have no responsibility/liability if our code doesn't work, breaks something, etc.
 
 ## 8. Readme File
 The [README.md](/README.md) file has been updated along with the creation of [CONTRIBUTING.md](/CONTRIBUTING.md), [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md), and [LICENSE.md](/LICENSE.md).
