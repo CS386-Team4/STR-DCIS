@@ -15,6 +15,7 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 
 
 ## 3. Class Diagram
+![UML diagram](https://user-images.githubusercontent.com/21299000/161398068-555315e2-7002-4e7d-8bed-65dc06a624f3.png)
 
 
 ## 4. Sequence Diagram
