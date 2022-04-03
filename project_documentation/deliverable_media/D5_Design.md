@@ -20,6 +20,22 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 
 ## 4. Sequence Diagram
 
+Use Case: Attack enemy\
+Actor: User\
+Description: The user attacks and deals damage to enemy\
+Pre-Conditions: the user is at a fair level against enemy and is in battle scene 
+Post-Conditions: Enemy takes damage and either faints or is able to fight back\
+Main Flow & Alternative Flows:
+1. User level determines attack damage
+2. User attacks enemy\
+2.1. Enemy faints\
+2.2. Enemy survives and may attack back, flee, or defend
+3. User takes damage
+4. User defeats enemy and gains experience points\
+4.1 XP goes over threshold leveling up player\
+4.2 XP does not go over threshold and level stays the same
+
+
 
 ## 5. Design Patterns
 ### Strategy Design Pattern:
