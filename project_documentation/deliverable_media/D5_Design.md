@@ -22,6 +22,7 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 
 
 ## 5. Design Patterns
+![Strategy Diagram](https://github.com/CS386-Team4/STR-DCIS/blob/main/project_documentation/deliverable_media/images/StrategyDiagram.JPG)
 
 
 ## 6. Design Principles
