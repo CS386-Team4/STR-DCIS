@@ -20,6 +20,8 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 
 ## 4. Sequence Diagram
 
+<img src ="/project_documentation/deliverable_media/images/SequenceDiagram.png">
+
 Use Case: Attack enemy\
 Actor: User\
 Description: The user attacks and deals damage to enemy\
