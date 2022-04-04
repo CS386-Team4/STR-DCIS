@@ -13,6 +13,8 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 
 ## 2. Architecture
 
+The server and the game client are the two main modules in the game. The server contains a database of clients as well as a queue of instructions that determine what is going on for every given player as well as what kind of information to send. The client contains a local copy of the information stored in the database on the server. On every startup of the game, the information between the two locations is checked with a hash to see if anything needs to be updated locally. The client also contains an instance of a game and a series of players, as well as a defined host.
+
 
 ## 3. Class Diagram
 ![UML diagram](https://user-images.githubusercontent.com/21299000/161398068-555315e2-7002-4e7d-8bed-65dc06a624f3.png)
