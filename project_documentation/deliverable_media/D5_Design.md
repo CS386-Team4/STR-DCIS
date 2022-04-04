@@ -12,6 +12,8 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 &emsp;Once in the **game**, the **user** will be brought to a main menu where they can change settings, customize their *character*, and <ins>join</ins> new games. Before diving into a **session**, the **user** can <ins>view</ins> their **friends** list along with all of their *statuses*. The **user** can also <ins>send</ins> a **session** *invite* to any of these **friends**. Once in a **session**, they will come across **other users**, new *items*, *enemies*, and *bosses* with variation in *difficulty*. These **other users** will <ins>display</ins> their *active character* to the **user** and the **user** will also have the ability to <ins>send</ins> them a **friend** request. The **user** will also be able to **message** with the **other users** through a <ins>chat box</ins>. The <ins>chat box</ins> contains *mute* and *profanity filter* functions. Once the **game** has finished, all players return to the home screen.
 
 ## 2. Architecture
+![System Archtecture](https://github.com/CS386-Team4/STR-DCIS/blob/main/project_documentation/deliverable_media/images/System_Architecture.png)
+
 
 The server and the game client are the two main modules in the game. The server contains a database of clients as well as a queue of instructions that determine what is going on for every given player as well as what kind of information to send. The client contains a local copy of the information stored in the database on the server. On every startup of the game, the information between the two locations is checked with a hash to see if anything needs to be updated locally. The client also contains an instance of a game and a series of players, as well as a defined host.
 
