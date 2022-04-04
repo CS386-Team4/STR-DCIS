@@ -47,6 +47,8 @@ Main Flow & Alternative Flows:
 ### Strategy Design Pattern:
 ![Strategy Diagram](https://github.com/CS386-Team4/STR-DCIS/blob/main/project_documentation/deliverable_media/images/StrategyDiagram.JPG)
 
+### Factory Design Pattern:
+![Factory Diagram](https://github.com/CS386-Team4/STR-DCIS/blob/main/project_documentation/deliverable_media/images/Factory_Pattern.PNG)
 
 ## 6. Design Principles
 __Single Responsibility Principle__: [link](https://github.com/CS386-Team4/STR-DCIS/blob/main/Source/STR-DCIS/Assets/Scripts/PlayerMovement.cs) - The PlayerMovement class is only in control of executing the player's movement and nothing else is being done in this class.
