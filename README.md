@@ -15,13 +15,13 @@ Tests are already built into the unity project file so it is very simple to run.
 Deploying the game is very simple as building the game into an executable file is all that needs to be done. There should be a build option in unity that when used will give this .exe file that can be given to anyone. 
 
 # Contributing
-Please read our CONTRIBUTING.md and CODE_OF_CONDUCT.md files for more information on the process of submitting pull requests to us. 
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) files for more information on the process of submitting pull requests to us. 
 
 # Version
 Current version of Galactic Gunslingers is 0.0.1
 
 # License
-See LICENSE.md for details.
+See [LICENSE.md](LICENSE.md) for details.
 
 # Authors
 * Samuel Fye
