@@ -7,6 +7,14 @@ public class SceneSwitch : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D col)
     {
-        SceneManager.LoadScene(3);
+        Debug.Log(gameObject.GetComponent<SpriteRenderer>().name);
+        if (gameObject.GetComponent<SpriteRenderer>().name == "Exit Doorway")
+        {
+            SceneManager.LoadScene(5);
+        }
+        else
+        {
+            SceneManager.LoadScene(3);
+        }
     }
 }
