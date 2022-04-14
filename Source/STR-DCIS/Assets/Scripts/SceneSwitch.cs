@@ -10,7 +10,7 @@ public class SceneSwitch : MonoBehaviour
         Debug.Log(gameObject.GetComponent<SpriteRenderer>().name);
         if (gameObject.GetComponent<SpriteRenderer>().name == "Exit Doorway")
         {
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(5);
         }
         else
         {
