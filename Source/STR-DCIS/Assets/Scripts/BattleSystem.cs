@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public enum BattleState { START, PLAYERTURN, ENEMYTURN, WON, LOST }
 
@@ -69,7 +70,9 @@ public class BattleSystem : MonoBehaviour
      if(isDead)
      {
        state = BattleState.WON;
-       EndBattle();
+            dialogueText.text = "You won!";
+            yield return new WaitForSeconds(2f);
+            EndBattle();
      }
      else
      {
@@ -96,7 +99,10 @@ public class BattleSystem : MonoBehaviour
      if(isDead)
      {
         state = BattleState.LOST;
-        EndBattle();
+        dialogueText.text = "You were defeated";
+            yield return new WaitForSeconds(1f);
+
+            EndBattle();
      }
      else
      {
@@ -109,11 +115,12 @@ public class BattleSystem : MonoBehaviour
     {
     if(state == BattleState.WON)
     {
-       dialogueText.text = "You won!"; 
-    }
+            SceneManager.LoadScene("level1win");
+        }
     else if(state == BattleState.LOST)
     {
      dialogueText.text = "You were deafeated";
+            SceneManager.LoadScene("level1win");
 
     }
 
