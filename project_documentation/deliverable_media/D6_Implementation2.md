@@ -6,12 +6,12 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 ## 1. Introduction
 
 ## 2. Implemented Requirements 
-Requirement: "As a developer, I want to be able to test my code through automation so I can reduce the amount of bugs/mistakes being implemented in my code"
-Issue: N/A
-Pull request: https://github.com/CS386-Team4/STR-DCIS/pull/7
-Implemented by: Jaron Bauers
-Approved by: Caroline Fye
-Print screen: ![](./images/unit-test2.jpg)
+Requirement: "As a developer, I want to be able to test my code through automation so I can reduce the amount of bugs/mistakes being implemented in my code" \
+Issue: N/A \
+Pull request: https://github.com/CS386-Team4/STR-DCIS/pull/7 \
+Implemented by: Jaron Bauers \
+Approved by: Caroline Fye \
+Print screen: ![](./images/unit-test2.jpg) \
 
 ## 3. Tests
 *3.1.1*
