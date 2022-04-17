@@ -32,5 +32,26 @@ Print screen: ![](./images/unit-test2.jpg) \
 ## 4. Demo
 
 ## 5. Code Quality
+In order to keep the level of high quality in our source code like we have, we came up with some best practice rules for code development:
+
+1. All variable names will be descriptive.
+2. All method/function names will be descriptive.
+3. All class names will be descriptive.
+4. Indents/Tabs are 4 spaces.
+5. Everything within a set of curly braces will be indented once.
+example:
+someClass()
+{
+    someFunction()
+    {
+        someVar = True;
+        if (someVar)
+            return somVar;
+    }
+}
+
+6. All methods/functions will belong to a class.
+7. KISS!!! (Keep it Simple Stupid)
 
 ## 6. Lessons Learned
+In retrospective after this second release, some of our teammates have realized that working off of their own personal fork came with some integration problems and that creating a new branch off of main would have been a little more efficent. Moving forward with this project in the future, we will all be making new branches named after the User Story we are implementing to avoid these integration errors in the future. All in all, we will be working directly on the STR-DCIS repository instead of creating forks and working on a personal forked repository.
