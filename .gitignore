@@ -1,0 +1,12 @@
+
+
+!.gitignore
+
+Source/STR-DCIS/ProjectSettings
+Source/STR-DCIS/UserSettings
+
+.DS_Store
+# backup files
+
+*~
+\#*#
