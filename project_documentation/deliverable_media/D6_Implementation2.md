@@ -11,7 +11,7 @@ Issue: N/A \
 Pull request: https://github.com/CS386-Team4/STR-DCIS/pull/7 \
 Implemented by: Jaron Bauers \
 Approved by: Caroline Fye \
-Print screen: ![](./images/unit-test2.jpg) \
+Print screen: ![](./images/unit-test2.jpg)
 
 ## 3. Tests
 *3.1.1*
@@ -39,17 +39,18 @@ In order to keep the level of high quality in our source code like we have, we c
 3. All class names will be descriptive.
 4. Indents/Tabs are 4 spaces.
 5. Everything within a set of curly braces will be indented once.
-example:
+example: \
+<pre>
 someClass()
 {
     someFunction()
     {
         someVar = True;
         if (someVar)
-            return somVar;
+            return someVar;
     }
 }
-
+</pre>
 6. All methods/functions will belong to a class.
 7. KISS!!! (Keep it Simple Stupid)
 
