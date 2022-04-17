@@ -4,6 +4,7 @@ _Group 04 – “Galactic Gunslingers”\
 Date: March 20, 2022\
 Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Normand, Bronwyn Wedig_
 ## 1. Introduction
+ Multiplayer games have been severely lacking in niche challenges nowadays and players are constantly looking for new ways to cure boredom. Galactic Gunslingers fills that void as a turn-based roguelike that allows gamers to tackle unique challenges with their friends every time they play. Features that have been created during our second implementation 
 
 ## 2. Implemented Requirements 
 Requirement: "As a developer, I want to be able to test my code through automation so I can reduce the amount of bugs/mistakes being implemented in my code" \
