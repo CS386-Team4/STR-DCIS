@@ -14,6 +14,13 @@ Implemented by: Jaron Bauers \
 Approved by: Caroline Fye \
 Print screen: ![](./images/unit-test2.jpg)
 
+Requirement: "As a gamer who wants to be entertained, I want variations in gameplay so I don't get bored from doing the same thing constantly." \
+Issue: N/A \
+Pull request: https://github.com/CS386-Team4/STR-DCIS/pull/10 \
+Implemented by: Henry Fye \
+Approved by: Jack Normand \
+Print screen: ![](./images/level2.jpg)
+
 ## 3. Tests
 *3.1.1*
 - The framework used to develop our tests was the Unity Test Framework (UTF) which is the built in unit-testing framework in Unity.
