@@ -4,7 +4,11 @@ _Group 04 – “Galactic Gunslingers”\
 Date: March 20, 2022\
 Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Normand, Bronwyn Wedig_
 ## 1. Introduction
- Multiplayer games have been severely lacking in niche challenges nowadays and players are constantly looking for new ways to cure boredom. Galactic Gunslingers fills that void as a turn-based roguelike that allows gamers to tackle unique challenges with their friends every time they play. Features that have been created during our second implementation 
+ Multiplayer games have been severely lacking in niche challenges nowadays and players are constantly looking for new ways to cure boredom. Galactic Gunslingers fills that void as a turn-based roguelike that allows gamers to tackle unique challenges with their friends every time they play. 
+ 
+ Features that have been created during our second implementation include a brand new level with a new enemy to battle against. Another new feature is a chest that will give you points when interacting with it. We also implemented a scale for the window so that the user can change the window size and the mechanics stay the same. Another important bug fix was with the enemy battle scene, the character can no longer walk around the battle scene and can now defeat or be deafeated by the enemy and exit. Once the battle is over the player can now go to the next room where the next enemy is located.
+ 
+ github: https://github.com/CS386-Team4/STR-DCIS
 
 ## 2. Implemented Requirements 
 Requirement: "As a developer, I want to be able to test my code through automation so I can reduce the amount of bugs/mistakes being implemented in my code" \
