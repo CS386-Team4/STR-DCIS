@@ -10,7 +10,7 @@ public class unit_test
     public void test__TakeDamage_Should_ReturnFalse_When_Called()
     {
         bool expected = false;
-        bool actual = HealthCalculator.TakeDamage(5, 10);
+        bool actual = HealthCalc.DamageCalculator(10);
         Assert.AreEqual(expected, actual);
     }
 
@@ -18,7 +18,7 @@ public class unit_test
     public void test__TakeDamage_Should_ReturnTrue_When_Called()
     {
         bool expected = true;
-        bool actual = HealthCalculator.TakeDamage(10, 10);
+        bool actual = HealthCalc.DamageCalculator(0);
         Assert.AreEqual(expected, actual);
     }
 
@@ -26,15 +26,15 @@ public class unit_test
     public void test__Heal_Should_ReturnFullHealth_When_CalledWhileDamaged()
     {
         int expected = 10;
-        int actual = HealthCalculator.Heal(10, 10, 1);
+        int actual = HealthCalc.HealCalculator(15, 10);
         Assert.AreEqual(expected, actual);
     }
 
     [Test]
     public void test__Heal_Should_ReturnFullHealth_When_CalledWithMaxHealth()
     {
-        int expected = 10;
-        int actual = HealthCalculator.Heal(10, 10, 10);
+        int expected = 5;
+        int actual = HealthCalc.HealCalculator(5, 10);
         Assert.AreEqual(expected, actual);
     }
 }
