@@ -32,6 +32,13 @@ Implemented by: Henry Fye \
 Approved by: Jaron Bauers \
 Print screen: ![](./images/loginPage.jpg)
 
+Requirement: "As a user, I would like to create a profile in the game so I can feel more of a connection to the game and character." \
+Issue: N/A \
+Pull request: https://github.com/CS386-Team4/STR-DCIS/pull/11 \
+Implemented by: Isaiah Raspet \
+Approved by: Bronwyn Wedig \
+Print screen: ![](./images/server.jpg)
+
 ## 3. Tests
 *3.1.1*
 - The framework used to develop our tests was the Unity Test Framework (UTF) which is the built in unit-testing framework in Unity.
