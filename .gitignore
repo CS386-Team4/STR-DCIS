@@ -1,6 +1,7 @@
 
 
 !.gitignore
+Source/STR-DCIS/Temp
 
 Source/STR-DCIS/ProjectSettings
 Source/STR-DCIS/UserSettings
