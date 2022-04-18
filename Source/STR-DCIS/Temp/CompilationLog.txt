@@ -1,2 +1,0 @@
-# Starting compiling Scripts.dll
-/Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-756d5e9a3884d40c5aa27bd7d0242c43
