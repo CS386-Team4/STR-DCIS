@@ -27,7 +27,7 @@ Print screen: ![](./images/level2.jpg)
 
 Requirement: "As a user, I would like to create a profile in the game so I can feel more of a connection to the game and character." \
 Issue: N/A \
-Pull request: ![#11](https://github.com/CS386-Team4/STR-DCIS/commit/cb20f6fbdaa435ad21386336d6056e79d532533f) \
+Pull request: [#11](https://github.com/CS386-Team4/STR-DCIS/commit/cb20f6fbdaa435ad21386336d6056e79d532533f) \
 Implemented by: Henry Fye \
 Approved by: Jaron Bauers \
 Print screen: ![](./images/loginPage.jpg)
