@@ -1033,3 +1033,19 @@ Received Import Request.
 Start importing Assets/sprites/moonbg.png using Guid(7753e034e340f4e4583c49b9e588c2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb2d9fd5381e008442c64824c6beaf3') in 0.017188 seconds 
   Import took 0.021492 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 177.601536 seconds.
+  path: Assets/Scenes/level2.unity
+  artifactKey: Guid(8c09ceb2c7471894caed83c427b9521c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level2.unity using Guid(8c09ceb2c7471894caed83c427b9521c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cbaa5a341c54317d6259149680e057f') in 0.002987 seconds 
+  Import took 0.007490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.817743 seconds.
+  path: Assets/Scenes/level1.unity
+  artifactKey: Guid(a4a2ee479ad7c43198dc6040da1dd01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level1.unity using Guid(a4a2ee479ad7c43198dc6040da1dd01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c771c19eeb9a26116ac4d6001be77f47') in 0.002628 seconds 
+  Import took 0.006745 seconds .
+
