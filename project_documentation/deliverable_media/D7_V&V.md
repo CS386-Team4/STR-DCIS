@@ -9,6 +9,7 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 ## 2. Verification (tests)
 
 **Unit Test**
+
 *2.1.1*
 - The framework used to develop our tests was the Unity Test Framework (UTF) which is the built in unit-testing framework in Unity. In order to be able to carry out these "Mock" operations we had to import 4 different plugins from the [Moq website](https://www.nuget.org/packages/moq/).
 
@@ -25,6 +26,7 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 ![](./images/mock_unittest.jpg)
 
 ##Acceptance Test##
+
 *2.2.1*
 - The framework used to develop our tests was the Unity Test Framework (UTF) which is the built in unit-testing framework in Unity.
 
