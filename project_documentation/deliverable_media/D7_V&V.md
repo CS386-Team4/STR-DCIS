@@ -25,7 +25,7 @@ Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Norman
 
 ![](./images/mock_unittest.jpg)
 
-##Acceptance Test##
+**Acceptance Test**
 
 *2.2.1*
 - The framework used to develop our tests was the Unity Test Framework (UTF) which is the built in unit-testing framework in Unity.
