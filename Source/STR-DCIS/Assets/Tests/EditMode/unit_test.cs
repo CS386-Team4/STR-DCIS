@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
+using Moq;
 
 public class unit_test
 {
@@ -35,6 +36,18 @@ public class unit_test
     {
         int expected = 5;
         int actual = HealthCalc.HealCalculator(5, 10);
+        Assert.AreEqual(expected, actual);
+    }
+
+    [Test]
+    [TestCase(10, 10)]
+    public void test__TakeRandomDamage_Should_ReturnRandomDmg_When_Called(int randomDmg, int expected)
+    {
+        var statsValue = new Mock<Stats>();
+        statsValue.Setup(x => x.getDmg()).Returns(randomDmg);
+
+        int actual = RandomDmg.TakeRandomDamage(statsValue.Object);
+
         Assert.AreEqual(expected, actual);
     }
 }

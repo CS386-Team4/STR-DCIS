@@ -42,3 +42,11 @@ public static class HealthCalc
             return currentHP;
     }
 }
+
+public class RandomDmg : Stats
+{
+    public static int TakeRandomDamage(Stats value)
+    {
+        return value.dmg;
+    }
+}
