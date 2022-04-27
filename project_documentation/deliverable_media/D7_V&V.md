@@ -52,6 +52,12 @@ Script: The tasks we gave the user are the following
 8. Win, move to next scene
 9. Explore the rest of the game at your own pace
 
-QUESTIONS TO ASK POST-GAMEPLAY
+QUESTIONS TO ASK POST-GAMEPLAY:
+How would you describe the main menu screen?
+What were your favorite and least favorite features of the game?
+What were you initial thoughts on gameplay, movement, and combat?
+What about the game turned you away from it?
+Was there anything in the game that you wish wasn't in the game?
+Was there anything you wish was in the game?
 
 
