@@ -89,9 +89,24 @@ Was there anything in the game that you wish wasn't in the game?<br/>
 Yes. Some of the art like the wood or stone could look better.<br/>
 Was there anything you wish was in the game?<br/>
 Multiplayer.<br/><br/>
+
+
 User three: Jack's friend Jamari (gamer)<br/>
+How would you describe the main menu screen?<br/>
+The main menu was amazing. Loved the music volume and slider.<br/>
+What were your favorite and least favorite features of the game?<br/>
+Favorite was the menu screen and art, least favorite was the shortness.<br/>
+What were you initial thoughts on gameplay, movement, and combat?<br/>
+Gameplay was pretty cool I guess. Movement was quick and reactive, combat was interesting.<br/>
+What about the game turned you away from it?<br/>
+The speed of the scene switching and lack of animation for it.<br/>
+Was there anything in the game that you wish wasn't in the game?<br/>
+Yea the music was annoying after a little but the volume slider helped.<br/>
+Was there anything you wish was in the game?<br/>
+Voice chat.<br/><br/>
 
 Reflections:<br/>
+
 
 
 
