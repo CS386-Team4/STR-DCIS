@@ -52,7 +52,7 @@ Script: The tasks we gave the user are the following
 8. Win, move to next scene
 9. Explore the rest of the game at your own pace
 
-QUESTIONS TO ASK POST-GAMEPLAY:\n
+QUESTIONS TO ASK POST-GAMEPLAY:<\br>
 How would you describe the main menu screen?
 What were your favorite and least favorite features of the game?
 What were you initial thoughts on gameplay, movement, and combat?
