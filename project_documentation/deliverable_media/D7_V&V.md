@@ -41,3 +41,15 @@ Galactic Gunslingers brings a never seen before gaming experience where you get 
 *2.2.4*
 
 ## 3. Validation (user evaluation)
+Script: The tasks we gave the user are the following
+1. Explore the main menu
+2. Explore the options menu
+3. Start the game using the start button from the menu
+4. Create user login credentials 
+5. Log in with said credentials
+6. Play around with character movement, explore level scene
+7. Begin combat scene
+8. Win, move to next scene
+9. Explore the rest of the game at your own pace
+
+
