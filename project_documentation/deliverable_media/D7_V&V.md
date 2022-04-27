@@ -60,4 +60,12 @@ What about the game turned you away from it?
 Was there anything in the game that you wish wasn't in the game?
 Was there anything you wish was in the game?
 
+Results:
+User one: Jack's roommate Brandon (gamer)
+User two: Jacks's friend Wil (gamer)
+User three: Jack's friend Jamari (gamer)
+
+Reflections:
+
+
 
