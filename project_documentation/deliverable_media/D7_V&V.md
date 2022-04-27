@@ -4,7 +4,7 @@ _Group 04 – “Galactic Gunslingers”\
 Date: March 20, 2022\
 Group Members: Caroline Fye, Jaron Bauers, Isaiah Raspet, Henry Fye, Jack Normand, Bronwyn Wedig_
 ## 1. Description
-
+Galactic Gunslingers brings a never seen before gaming experience where you get to play as tough rootin tootin cowboys shootin in space. This game brings a unique spin to your favorite roguelike, dungeon crawler games by implementing both a realtime movement system and turned based combat. Users will have to either create an account or log into an already existing one, that is saved in our server, in order to access the rest of the game. From there you can access our options menu where you can configure the setting to your liking, or just jump right into the game. Galatic Gunslingers has a playful feel to it thanks to its unique pixel/cartoonish art-style and old-westerny soundtrack that will really help immerse the users. This game will hopefully bring countless hours of gameplay with its strong replayability value when we start to add more than one level and when we add items the user will be able to collect throughout the game. You and your friends will be able to play Galatic Gunslingers on your personal computer.
 
 ## 2. Verification (tests)
 
