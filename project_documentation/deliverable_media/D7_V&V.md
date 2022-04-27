@@ -53,19 +53,19 @@ Script: The tasks we gave the user are the following
 9. Explore the rest of the game at your own pace
 
 QUESTIONS TO ASK POST-GAMEPLAY:<br/>
-How would you describe the main menu screen?
-What were your favorite and least favorite features of the game?
-What were you initial thoughts on gameplay, movement, and combat?
-What about the game turned you away from it?
-Was there anything in the game that you wish wasn't in the game?
-Was there anything you wish was in the game?
+How would you describe the main menu screen?<br/>
+What were your favorite and least favorite features of the game?<br/>
+What were you initial thoughts on gameplay, movement, and combat?<br/>
+What about the game turned you away from it?<br/>
+Was there anything in the game that you wish wasn't in the game?<br/>
+Was there anything you wish was in the game?<br/>
 
-Results:
-User one: Jack's roommate Brandon (gamer)
-User two: Jacks's friend Wil (gamer)
-User three: Jack's friend Jamari (gamer)
+Results:<br/>
+User one: Jack's roommate Brandon (gamer)<br/>
+User two: Jacks's friend Wil (gamer)<br/>
+User three: Jack's friend Jamari (gamer)<br/>
 
-Reflections:
+Reflections:<br/>
 
 
 
