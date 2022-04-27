@@ -62,7 +62,33 @@ Was there anything you wish was in the game?<br/>
 
 Results:<br/>
 User one: Jack's roommate Brandon (gamer)<br/>
+How would you describe the main menu screen?<br/>
+The main menu is simple and intuitive. I really like the responsive buttons.<br/>
+What were your favorite and least favorite features of the game?<br/>
+My favorite feature was the pixel art, least favorite was the combat.<br/>
+What were you initial thoughts on gameplay, movement, and combat?<br/>
+Gameplay was fine, movement was good, and combat was great.<br/>
+What about the game turned you away from it?<br/>
+The lack of content and multiplayer.<br/>
+Was there anything in the game that you wish wasn't in the game?<br/>
+No not really.<br/>
+Was there anything you wish was in the game?<br/>
+Multiplayer that worked.<br/><br/>
+
+
 User two: Jacks's friend Wil (gamer)<br/>
+How would you describe the main menu screen?<br/>
+The main menu sucks. It looks cheap.<br/>
+What were your favorite and least favorite features of the game?<br/>
+My favorite feature was the movement, my least favorite was the art.<br/>
+What were you initial thoughts on gameplay, movement, and combat?<br/>
+The gameplay was slow, the movement was good, and the combat was pretty good actually.<br/>
+What about the game turned you away from it?<br/>
+The lack of promised features.<br/>
+Was there anything in the game that you wish wasn't in the game?<br/>
+Yes. Some of the art like the wood or stone could look better.<br/>
+Was there anything you wish was in the game?<br/>
+Multiplayer.<br/><br/>
 User three: Jack's friend Jamari (gamer)<br/>
 
 Reflections:<br/>
