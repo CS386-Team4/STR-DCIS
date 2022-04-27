@@ -106,6 +106,13 @@ Was there anything you wish was in the game?<br/>
 Voice chat.<br/><br/>
 
 Reflections:<br/>
+The things that seemed to work well were the art, the menu, and the movement.<br/>
+People loved the art style and thought it worked well in the game.<br/>
+The gameplay was overall well-liked, but could use some fixes.<br/>
+There wasn't a real learning curve, because of the linearity of the game.<br/><br/>
+
+Users performed all the expected tasks just as expected, and the results produced were as expected as well.<br/>
+Our value proposition is half-accomplished. If we had implemented multiplayer, then we could argue that the value proposition was met.
 
 
 
