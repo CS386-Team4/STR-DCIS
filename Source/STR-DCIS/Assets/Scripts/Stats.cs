@@ -10,4 +10,9 @@ public class Stats
     {
         return dmg;
     }
+
+    public bool RunSuccessfully()
+    {
+        return true;
+    }
 }
