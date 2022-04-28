@@ -34,11 +34,13 @@ Galactic Gunslingers brings a never seen before gaming experience where you get 
 - Link to our unit tests (https://github.com/CS386-Team4/STR-DCIS/tree/main/Source/STR-DCIS/Assets/Tests/EditMode)
 
 *2.2.3*
-- Test Case Example: In this example, 
-- Class Being Tested (https://github.com/CS386-Team4/STR-DCIS/blob/main/Source/STR-DCIS/Assets/Scripts/Unit.cs)
-- Unit Test (https://github.com/CS386-Team4/STR-DCIS/blob/main/Source/STR-DCIS/Assets/Tests/EditMode/unit_test.cs)
+- Test Case Example: In this example, we decided to create an acceptance test for our Stats class that holds important class values and we wanted to make sure that when it is ran, it was run correctly whenever you create a class object.
+- Class Being Tested (https://github.com/CS386-Team4/STR-DCIS/blob/main/Source/STR-DCIS/Assets/Scripts/Stats.cs)
+- Unit Test (https://github.com/CS386-Team4/STR-DCIS/blob/main/Source/STR-DCIS/Assets/Tests/EditMode/AcceptanceTest_test.cs)
 
 *2.2.4*
+
+![](./images/acceptanceTest.jpg)
 
 ## 3. Validation (user evaluation)
 Script: The tasks we gave the user are the following
